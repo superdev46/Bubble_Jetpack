@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>BUBBLE JETPACK</name>
+    <description>
+        Mini Exemplo de site dentro de um app.
+    </description>
+    <content src="index.html" />
+    <icon src="www/icon.png" />
+    <splash src="www/icon.png" />
+    <allow-navigation href="https:///*" />
+    <access origin="*" />
+    <preference name="loglevel" value="DEBUG" />
+</widget>
